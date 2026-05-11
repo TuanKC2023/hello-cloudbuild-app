@@ -31,3 +31,4 @@ In the end, you have a system where:
   job in Cloud Build. A rollback also updates the _production_ branch to
   truthfully reflect the history of deployments.
 # trigger cloud build
+trigger build Mon May 11 03:01:32 PM UTC 2026
